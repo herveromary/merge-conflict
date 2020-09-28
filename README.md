@@ -1,4 +1,4 @@
-# merge-conflict
+REMOTE
 PhilosophieNotre
 Notre capacité humaine à apprendre de nouvelle compétences à l’infini nous permet de nous accomplir au sein d’une communauté, d’apporter notre contribution à notre société et de conserver notre liberté en tant qu’individu.
 
